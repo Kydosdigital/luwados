@@ -62,7 +62,7 @@ p {
 
 /* Header */
 header {
-  background-color: var(--dark);
+/*   background-color: var(--dark); */
   color: var(--text-light);
   text-align: center;
   padding: 1.5rem 1rem;
