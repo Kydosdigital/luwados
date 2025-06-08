@@ -123,7 +123,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1542744173-8e7e53415c10?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover; /* Placeholder image */
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://raw.githubusercontent.com/Kydosdigital/luwados/main/210abf52-427a-4a33-8a12-dc03aa533eff.png') no-repeat center center/cover; /* Placeholder image */
   color: var(--text-light);
   text-align: center;
   padding: 6rem 1rem; /* More vertical padding */
