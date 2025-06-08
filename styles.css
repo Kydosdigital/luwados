@@ -1,0 +1,33 @@
+:root {
+    --primary: #1cb58f;
+    --dark: #003f5f;
+    --gray: #7b8794;
+    --accent: #f05b59;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--dark);
+    color: #fff;
+}
+
+header {
+    background-color: var(--primary);
+    color: var(--dark);
+    text-align: center;
+    padding: 2rem 0;
+}
+
+main {
+    text-align: center;
+    padding: 2rem;
+}
+
+p {
+    color: var(--gray);
+}
+
+a {
+    color: var(--accent);
+}
